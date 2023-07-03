@@ -75,11 +75,11 @@ p {
 }
 
 .styled--input--card--input {
-  padding-left: 1rem;
-  width: 25rem;
+  padding-left: 2rem;
+  width: 23.5rem;
   height: 2.5rem;
   background: url("./img/mastercard.png") no-repeat left;
-  background-position: 0.5rem;
+  background-position: 0.2rem;
   background-size: 20px;
   background-color: #EEE;
   border-radius: 0.625rem;
@@ -93,7 +93,7 @@ p {
 }
 
 .styled--input--card--input::placeholder {
-  padding-left: 1.5rem;
+  padding-left: 0.1rem;
   color: #9563FF;
 }
 .card--expiry--cvv {
@@ -102,7 +102,7 @@ p {
 
 .card--expiry--date,
 .card--cvv--number {
-  margin-right: 4.5rem; 
+  margin-right: 4.7rem; 
 }
 
   .card--expiry--date input,
