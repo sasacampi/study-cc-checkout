@@ -22,3 +22,4 @@ Acessibilidade: Uma parte crucial do design moderno é a acessibilidade, garanti
 ## Referência
 
  - [Daily UI Prompt #01: Credit Card Checkout](https://www.dailyui.co)
+ - [Figma File] (https://www.figma.com/file/DsEGvKN9H9IHqeCqHKUogY/Credit-Card-Checkout-(Community)?node-id=0%3A1&mode=dev)
