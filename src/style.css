@@ -24,8 +24,20 @@ body {
 }
 
 
-hero {
+.app {
+  display: flex;
+}
 
+.left-container {
+  flex-grow: 1;
+  padding-right: 20px; 
+}
+
+.right-container {
+  padding-right: 30rem;
+  width: 28rem;
+  height: 60rem;
+  flex-shrink: 0;
 }
 
 .hero--title {
@@ -76,7 +88,7 @@ p {
 
 .styled--input--card--input {
   padding-left: 2rem;
-  width: 23.5rem;
+  width: 24rem;
   height: 2.5rem;
   background: url("./img/mastercard.png") no-repeat left;
   background-position: 0.2rem;
@@ -156,6 +168,89 @@ input[type="number"]::-webkit-outer-spin-button {
     font-weight: 700;
     line-height: normal;
   }
-  
- 
-  
+
+  .cart {
+    width: 22rem;
+    height: 36rem;
+    border-radius: 0.625rem;
+    background: #F0F0F0;
+    backdrop-filter: blur(2px);
+  }
+
+ .cart-title {
+  padding-top: 2rem;
+  padding-left: 1rem;
+  color: #575757;
+  font-size: 1rem;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+ }
+
+ .cart--price {
+  padding-left: 6rem;
+  color: #000;
+  font-size: 2rem;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 700;
+  line-height: normal;
+ }
+
+.cart--value {
+  padding-left: 4rem;
+  color: #000;
+  font-size: 1rem;
+  font-family: Inter;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.cart--products {
+  padding-left: 1.2rem;
+  list-style: none;
+}
+
+.cart--products li {
+  padding-right: 1.2rem;
+  padding-bottom: 1.2rem;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-bottom: 10px;
+  font-weight: 700;
+}
+
+.cart--products li span {
+  margin-left: auto;
+  color: #000;
+  font-size: 1rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+}
+
+.line-divider {
+  border-top: 1px solid #747474;
+  width: 20rem;
+  height: 0rem;
+  flex-shrink: 0;
+  padding-bottom: 1rem;
+}
+
+.cart--subtitle{
+  color: #575757;
+  padding-top: 0.1rem;
+  font-size: 0.8rem;
+  font-style: normal;
+  font-weight: 500;
+  line-height: normal;
+  padding-right: 2rem;
+}
+
+.cart--products h3 {
+  font-size: 0.9rem;
+  padding-bottom:
+}
