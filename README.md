@@ -1,7 +1,6 @@
+## Credit Card Checkout
+Criei um formulário ou página de checkout de cartão de crédito conforme a proposta do Daily UI #02. Aprimorei o design existente para torná-lo mais amigável ao usuário e visualmente atraente
 
-# Credit Card Checkout
-
-Estou criando um formulário ou página de checkout de cartão de crédito, conforme a proposta do Daily UI. Vou aprimorar o design existente para torná-lo mais amigável ao usuário e visualmente atraente.
 ## Aprendizados
 
 Durante esse projeto, eu tive a oportunidade de aprender diversos aspectos importantes. Alguns dos principais aprendizados que eu tive durante o desenvolvimento desse projeto incluem:
